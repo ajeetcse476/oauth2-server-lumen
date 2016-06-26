@@ -11,7 +11,7 @@ I have written an extensive blog post on it's use here.
 
 ### Via composer
 
-Run ```composer require optimus/oauth2-server-lumen 0.1.*```
+Run ```composer require ajeet632/oauth2-server-lumen 0.1.*```
 
 ### Register package
 
